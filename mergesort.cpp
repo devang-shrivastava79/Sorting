@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-//merge sort's time complexity is O(n)
 void merge(vector<int>&arr, int st, int mid , int end){
     int i = st;
     int j = mid+1;
